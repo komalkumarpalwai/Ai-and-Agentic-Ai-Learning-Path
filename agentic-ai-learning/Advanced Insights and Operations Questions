@@ -1,0 +1,11 @@
+Topic: Evolution of AI Models
+1. What is meant by imperative programming? Is Python an imperative programming language, and why?
+2. What is a declarative programming language? Give an example.
+3. What are the different types of paradigms?
+4. What is the difference between linear regression and logistic regression?
+5. What is a neural network? Explain its layers.
+6. Explain the formulas for bias and three different activation functions.
+7. What does the self-attention mechanism do?
+8. Do scaling laws increase model performance?
+9. What is the process/flow of pretraining a model?
+10. Does fine-tuning involve reinforcement learning?
