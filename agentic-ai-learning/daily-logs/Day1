@@ -1,29 +1,23 @@
-# Started with the First Course: Generative AI in Practice: Advanced Insights and Operations
-
+Started with the First Course: Generative AI in Practice: Advanced Insights and Operations
 1. Went through the introduction and evolution of models.
-
-2. **Key concepts I have learned:**
-   - Evolution of AI
-   - Imperative programming
-   - Declarative programming
-   - Different paradigms
-   - Self-supervised learning
-
-3. **Neural Networks**
-   - Layers of neural networks
-   - Working of bias and activation functions
-   - Types of activation functions and their differences
-
-4. **Transformers**
-   - Basics of self-attention mechanisms
-   - Scaling laws and how they help
-   - Neurosymbolic AI
-
-5. **Pretraining and Fine-Tuning**
-   - Pretraining flow
-   - Fine-tuning flow
-   - Multimodality: meaning and basics
-
-6. **Quiz Evaluation**
-   - Completed the quiz for the evaluation of AI and passed with 60%.
-   - The score is not good, so I will revisit the concepts and take the quiz once again.
+2. Key concepts I have learned:
+- Evolution of AI
+- Imperative programming
+- Declarative programming
+- Different paradigms
+- Self-supervised learning
+3. Neural Networks
+- Layers of neural networks
+- Working of bias and activation functions
+- Types of activation functions and their differences
+4. Transformers
+- Basics of self-attention mechanisms
+- Scaling laws and how they help
+- Neurosymbolic AI
+5. Pretraining and Fine-Tuning
+- Pretraining flow
+- Fine-tuning flow
+- Multimodality: meaning and basics
+6. Quiz Evaluation
+- Completed the quiz for the evaluation of AI and passed with 60%.
+- The score is not good, so I will revisit the concepts and take the quiz once again.
