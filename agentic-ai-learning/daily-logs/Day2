@@ -1,0 +1,11 @@
+Day2:- Started with the Retrevial Augmented Generation Course
+
+1.went thorught the first chpater:- RAG VS Standalone LLMs
+2. and core components of the rag.
+3.and learn about the vector search and the process of vector seach and different similarity formulas.
+4. explaored more about chunking and embedding and how to use them in RAG.  (this is missing in the video, might be covered later.)
+5.later in the next video , he had covered about chuncking andd types of them.
+6.and i also got to know about the naive rag architecture 
+7. Learned about agentic rag, how the some of the techniques helps the rag in the pre and post steps for the better output.
+8. i think to  know the rag graph, the video in the course might not be enough.
+9. passed quiz with 100% .
