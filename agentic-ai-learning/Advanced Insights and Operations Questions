@@ -22,3 +22,8 @@ Topic: Retrevial Augmented Generation(RAG)
 7. what is the Naive RAG architecture
 8. which techinique will use in the post Retrevial enhancements?
 
+Topic:-LLM on Azure Portal
+1. what is logit bias?
+2.does it help to restrict a word repetion?
+3. Which instructions are used to control the model's behaviour, system instructions or developer instructions?
+4.what is the use of the prompty file in rag or llm application?

@@ -1,0 +1,8 @@
+Topic:-LLM on Azure Portal
+1.learned how to make a model not use a word, or resitrict a word reptiance via logit bias.
+2.Editing the RAG Files in code base..
+3.leaerned about the system instructions for an llm
+4.got to know the use of the .prompty file in the code base. it is one which handles the core behaviour of the model, it contains the instructions,configurations and system prompts.
+5.he shown some the code base files which are used for the evaluation of the model. and how they keep the model grounded to the prompt.
+6. this season help me to know things like the prompty files, evaluation files, how the code base is organized for large applications.
+7.thier is no quizz for this chapter and by this chapter i have completed 50% of the course.
