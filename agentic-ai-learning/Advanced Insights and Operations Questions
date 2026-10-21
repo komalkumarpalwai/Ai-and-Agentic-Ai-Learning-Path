@@ -1,4 +1,4 @@
-Topic: Evolution of AI Models
+Topic: Evolution of AI Models (Date:-18-10-2026)
 1. What is meant by imperative programming? Is Python an imperative programming language, and why?
 2. What is a declarative programming language? Give an example.
 3. What are the different types of paradigms?
@@ -12,7 +12,7 @@ Topic: Evolution of AI Models
 
 
 
-Topic: Retrevial Augmented Generation(RAG)
+Topic: Retrevial Augmented Generation(RAG) (Date:-19-10-2026)
 1. why rag  is more effective than standalone llm? list out the benefits
 2. which is more expensive finetuning a model or rag?
 3. what are the core components of RAG? and why vector search is more important for rag.
@@ -22,8 +22,20 @@ Topic: Retrevial Augmented Generation(RAG)
 7. what is the Naive RAG architecture
 8. which techinique will use in the post Retrevial enhancements?
 
-Topic:-LLM on Azure Portal
+Topic:-LLM on Azure Portal (Date:-20-10-2026)
 1. what is logit bias?
 2.does it help to restrict a word repetion?
 3. Which instructions are used to control the model's behaviour, system instructions or developer instructions?
 4.what is the use of the prompty file in rag or llm application?
+
+
+
+Topic:-LLM and types (Date:-21-10-2026)
+1. what are the diffrent types of LLM?
+2. does gpt is an ecnoder model or decoder or both and why?
+3.how the self attention mechasinm helps the llm?
+4. what is meant by the tokens?
+5.does tokenization varies by model by model or not?.
+6.explain diffrent types of tokenization.
+7. explain about the syntax and semantic analysis..
+
