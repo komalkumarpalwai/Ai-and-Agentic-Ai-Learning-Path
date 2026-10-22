@@ -39,3 +39,10 @@ Topic:-LLM and types (Date:-21-10-2026)
 6.explain diffrent types of tokenization.
 7. explain about the syntax and semantic analysis..
 
+
+Topic:-LLM Prompting techinique(Date:-22-10-2026)
+1. in the zero short Prompting does we provide an exmaple as well?
+2. what is meant by chain of thought prompting?
+3. What is meant by adversarial prompting?does it help to bypass the safety measures?
+4. A model will be more creative when there is  tempreature  is Zero or high ?
+5. where top p is 0.2 , how much percent of the output the model will focus on?

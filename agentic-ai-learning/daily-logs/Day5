@@ -1,0 +1,11 @@
+Topic:-LLM Prompting techinique(Date:-22-10-2026)
+1.got to know about the diffrent prompting techinques:-
+   -Zero shot Prompting
+   -One shot Prompting
+   -Few shot Prompting
+2.got to knew about the chain of thought prompt techinque:- 
+this helps the model to go through the multiple steps of reasoning, before generating an answer.
+3. got to know like, by passing the instructions and stuff  called the adversarial prompting.
+4.got to know about the how the tempreature effetcs the randomness of the output.
+5. completed the Quiz with 60 %  on LLM Prompting techinque.
+need to explore more and take the course again.
